@@ -8,11 +8,7 @@ from django.utils.decorators import method_decorator
 from django.views.decorators.csrf import csrf_exempt
 
 # 🔹 Credentials
-HOTELS = {
-    "key": "9e7d8b5843787356fbd7cdebbf4b7abf",
-    "secret": "0baa473b16",
-    "base": "https://api.test.hotelbeds.com/hotel-api/1.0"
-}
+
 
 
 # 🔹 Signature generator
